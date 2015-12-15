@@ -1,4 +1,4 @@
-**_This file breaks down the script in snow_script.R_**"
+This file breaks down the script in snow_script.R
 
 The goal of this script is to determine the number of tickets per service, as well as obtain metrics around time spent on tickets.
 
