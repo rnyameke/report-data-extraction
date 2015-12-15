@@ -1,6 +1,4 @@
-This file breaks down the script in snow_script.R
-
-The goal of this script is to determine the number of tickets per service, as well as obtain metrics around time spent on tickets.
+The goal of snow_script.R is to determine the number of tickets per service, as well as obtain metrics around time spent on tickets.
 
 The first step is importing the csv created by ServiceNow. See CodeBook.md for more information about this file.
 
